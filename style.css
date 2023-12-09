@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;t
+    margin-top: 50px;
+    background-color: rgb(151, 186, 250);
+}
+
+#calculator {
+    background-color: darksalmon;
+    width: 300px;
+    border: 1px solid #f7f4f4;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+input {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 40px;
+}
+
+button {
+    width: 48px;
+    height: 48px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+    
+}
+.h1{
+    color: blue;
+}
